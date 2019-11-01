@@ -1,0 +1,25 @@
+
+.prod-contain {
+  width: 500px;
+  height: 200px;
+  display: flex;
+  background-color: #d34735;
+  margin: 20px;
+}
+h2 {
+  margin: 5px;
+}
+h4 {
+  margin: 5px;
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  align-self: center;
+  padding-left: 15px;
+}
+
+.prod-buttons {
+  height: 30px;
+}
